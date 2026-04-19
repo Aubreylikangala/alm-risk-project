@@ -56,4 +56,5 @@ Simulated banking dataset including:
 ---
 
 ## Author
-Financial Analyst | Risk Analytics | Quant Finance Enthusiast
+Aubrey Likangala
+Financial Analyst | Risk And Banking | Quant Finance | Data Analyst
